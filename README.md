@@ -2,16 +2,11 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student
-- Interested in Backend Development
-- Interested in Penetration Testing
-- Learning Web Security
-- Learning step by step
+Backend Developer & Penetration Tester
 
 ## 🛠️ Languages & Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,nodejs,express,html,css,sql,mongodb,git,gitlab,linux,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,html,css,mongodb,git,linux,vscode,notion&perline=8" />
 </p>
 
 ## 💻 Backend Development
