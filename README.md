@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/220910217?v=4" alt="Ibrahim" width="110" />
+<img src="https://avatars.githubusercontent.com/u/220910217?v=4" alt= width="110" />
 
 <h1>Hi, I'm Ibrahim 👋</h1>
 
