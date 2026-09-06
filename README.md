@@ -1,7 +1,6 @@
-## 👨‍💻 About Me
-
-Backend Developer & Penetration Tester
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A000000%2C100%3A433737&height=150&section=header&animation=fadeIn&text=Backend%20Developer%20%7C%20Penetration%20Tester&fontSize=28&fontColor=ffffff&fontAlignY=40" width="100%" />
+</div>   
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,html,css,mongodb,git,linux,vscode,notion&perline=8" />
