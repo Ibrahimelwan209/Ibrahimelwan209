@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 👨‍💻 About Me
 
 Backend Developer & Penetration Tester
@@ -9,27 +7,7 @@ Backend Developer & Penetration Tester
   <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,html,css,mongodb,git,linux,vscode,notion&perline=8" />
 </p>
 
-## 💻 Backend Development
-
-- Node.js
-- Express.js
-- REST APIs
-- JavaScript
-- SQL
-- MongoDB
-- Git & GitLab
-- Linux
-
-## 🔐 Penetration Testing
-
-- Web Security
-- Network Security
-- OWASP Top 10
-- Linux & Bash
-- Burp Suite
-- Nmap
-- Metasploit
-- TryHackMe
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-elwan-7b24b2380/">
