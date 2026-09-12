@@ -13,16 +13,13 @@ CURRENT OPS:
   - Backend Development
   - OWASP Top 10
 
-
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ skills
 
-> Pentesting | Web Security
 > CCNA | OWASP Top 10
 > Languages: C++ • Java • Python • JavaScript
 > Backend: Node.js • Express.js • SQL • MongoDB
 > Tools: Linux • Bash • Git • Burp Suite • Nmap
-
 
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ contact
