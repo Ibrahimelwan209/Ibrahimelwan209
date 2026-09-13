@@ -17,6 +17,7 @@ CURRENT OPS:
 └─$ skills
 
 > CCNA | OWASP Top 10
+> Codeforces: Newbie — Problem Solver
 > Languages: C++ • Java • Python • JavaScript
 > Backend: Node.js • Express.js • SQL • MongoDB
 > Tools: Linux • Bash • Git • Burp Suite • Nmap
