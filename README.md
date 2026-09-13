@@ -37,7 +37,7 @@ CURRENT OPS:
   <a href="https://www.hackerrank.com/profile/ibrahimelwan22">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
-  <a href="mailto:ibrahimelwan551@gmail.com">
+  <a href="mailto:ibrahim.elwan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
