@@ -11,7 +11,6 @@ TRACK: Pentesting & Backend Developer
 CURRENT OPS:
   - Web Pentesting
   - Backend Development
-  - OWASP Top 10
 
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ skills
