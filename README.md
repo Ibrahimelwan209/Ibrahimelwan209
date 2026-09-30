@@ -10,7 +10,7 @@ TRACK: Pentesting
 
 CURRENT OPS:
   - Web Pentesting
-  - 
+  - Network  Pentesting
 
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ skills
