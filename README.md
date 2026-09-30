@@ -6,20 +6,19 @@
 
 USER: IBRAHIM ELWAN
 ROLE: CS Student
-TRACK: Pentesting & Backend Developer
+TRACK: Pentesting 
 
 CURRENT OPS:
   - Web Pentesting
-  - Backend Development
+  - 
 
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ skills
 
-> CCNA | OWASP Top 10
 > Codeforces: Newbie — Problem Solver
-> Languages: C++ • Java • Python • JavaScript
-> Backend: Node.js • Express.js • SQL • MongoDB
-> Tools: Linux • Bash • Git • Burp Suite • Nmap
+> CCNA | OWASP Top 10
+> Languages: C++ • Java • Python • JavaScript • SQL • PHP
+> Tools: Linux • Bash • Git 
 
 ┌──(ibrahim209㉿github)-[~/profile]
 └─$ contact
