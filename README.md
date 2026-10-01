@@ -33,8 +33,8 @@ CURRENT OPS:
   <a href="https://tryhackme.com/p/ibrahimelwan551">
     <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/profile/ibrahimelwan22">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white">
+  <a href="https://codeforces.com/profile/ElwanDEV">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
   <a href="mailto:ibrahim.elwan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
