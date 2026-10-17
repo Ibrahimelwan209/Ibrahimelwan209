@@ -7,10 +7,9 @@
 USER: IBRAHIM ELWAN
 ROLE: CS Student
 TRACK: Pentesting &  Bug Bounty
-
 CURRENT OPS:
-  - Web Pentesting
-  - Network  Pentesting
+ > Web Pentesting
+ > Network  Pentesting
 
 ┌──(ibrahimelwan209㉿github)-[~/profile]
 └─$ skills
