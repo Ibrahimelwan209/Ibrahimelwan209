@@ -24,18 +24,25 @@ CURRENT OPS:
 ```
 
 </div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-elwan-7b24b2380/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://tryhackme.com/p/ibrahimelwan551">
     <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
+
   <a href="https://codeforces.com/profile/ElwanDEV">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
+
+  <a href="https://leetcode.com/u/ibrahim_elwan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+
   <a href="mailto:ibrahim.elwan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
